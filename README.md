@@ -1,4 +1,4 @@
-# GBT-WebChat
+# GPT-WebChat
 
 A JavaScript-powered replica of the ChatGPT interface, built to demonstrate how to interact with the OpenAI ChatGPT API using vanilla JS, HTML, and CSS.
 
