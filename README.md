@@ -38,7 +38,3 @@ A JavaScript-powered replica of the ChatGPT interface, built to demonstrate how 
 
 - [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css)
 - [Tailwind CSS](https://cdn.tailwindcss.com)
-
-
-**Author:** Reza Mehdikhanlou  
-YouTube: [@AsmrProg](https://www.youtube.com/@AsmrProg)
